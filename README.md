@@ -4,10 +4,10 @@ Here are the resources from the talk:
 
 # Files
 
-- Data Visualization in Business Communication.pdf: Presentation slides.
-- finsurance.csv: Data used in the slides. From https://www.kaggle.com/datasets/simranjain17/insurance.
-- stepwise.pbix: Power BI document shown in the slides. 
-- stepwise.pdf: PDF built with Adobe Illustrator
+- [Data Visualization in Business Communication.pdf](https://github.com/superchordate/gis-2023/blob/main/Data%20Visualization%20in%20Business%20Communication.pdf): Presentation slides.
+- [insurance.csv](https://github.com/superchordate/gis-2023/blob/main/insurance.csv): Data used in the slides. From https://www.kaggle.com/datasets/simranjain17/insurance.
+- [stepwise.pbix](https://github.com/superchordate/gis-2023/blob/main/stepwise.pbix): Power BI document shown in the slides. 
+- [stepwise.pdf](https://github.com/superchordate/gis-2023/blob/main/stepwise.pdf): PDF built with Adobe Illustrator
 
 # Links From the Presentation
 
