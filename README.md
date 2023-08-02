@@ -63,8 +63,9 @@ I recommend exploring and visualizing data in Power BI, but if you need to modif
 
 Here are some packages that I use a lot:
 
-* **easyr**: This package makes things that were historically difficult in R easier. In particular, `read.any` helps reading files (it reads most data formats automatically), `todate/tonum` flexibly convert characters to dates or numbers and cover more edge cases than other similar functions, and `jrepl` which joins and replaces data from related datasets and turns a 2-step operation into one while checking to confirm data isn't duplicated in the join. See docs on GitHub for more useful functions. 
-* **dplyr**: The reason R is better for data manipulation is this package. It makes working with data very intuitive and easy. 
+* [easyr](https://github.com/oliver-wyman-actuarial/easyr): This package makes things that were historically difficult in R easier. In particular, `read.any` helps reading files (it reads most data formats automatically), `todate/tonum` flexibly convert characters to dates or numbers and cover more edge cases than other similar functions, and `jrepl` which joins and replaces data from related datasets and turns a 2-step operation into one while checking to confirm data isn't duplicated in the join. See docs on GitHub for more useful functions. 
+* [dplyr](https://github.com/tidyverse/dplyr): The reason R is better for data manipulation is this package. It makes working with data very intuitive and easy. 
+* [fakeR](https://github.com/lhz1029/fakeR): Use to create dummy datasets you can send to Chat GPT Code Interpreter to generate code samples. 
 
 If you do use code, make sure to check out the Git Guide at https://github.com/casact/meta/blob/master/git-guide/git-guide.md. 
 
