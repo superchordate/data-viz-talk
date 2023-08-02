@@ -1,4 +1,4 @@
-Thanks again for attending our session at the Gamma Iota Sigma Regional Conference!
+Thanks again for attending our session at the Gamma Iota Sigma Regional Conference, or the IABA Annual Meeting!
 
 Here are the resources from the talk:
 
@@ -8,6 +8,8 @@ Here are the resources from the talk:
 - [insurance.csv](https://github.com/superchordate/gis-2023/blob/main/insurance.csv): Data used in the slides. From https://www.kaggle.com/datasets/simranjain17/insurance.
 - [stepwise.pbix](https://github.com/superchordate/gis-2023/blob/main/stepwise.pbix): Power BI document shown in the slides. 
 - [stepwise.pdf](https://github.com/superchordate/gis-2023/blob/main/stepwise.pdf): PDF built with Adobe Illustrator
+- [dummy-data/](https://github.com/superchordate/gis-2023/dummy-data/): Files for the example of running Chat GPT to explain a dataset with known properties, for testing purposes. 
+- [gpt-convos/](https://github.com/superchordate/gis-2023/gpt-convos/): Interesting conversations with Chat GPT. For now, there is just one that covers finding a story in data and creating a plot. We may add more later as we come across them. Download and open these files in a web browser. 
 
 # Links From the Presentation
 
@@ -34,6 +36,7 @@ Here is some software you might be interested in:
 
 **AutoML**
 
+* https://chat.openai.com/ (Chat GPT, will need Code Interpreter which is a paid feature)
 * https://github.com/superchordate/storyteller
 * https://rapidminer.com
 * https://www.datarobot.com
@@ -44,6 +47,7 @@ Here is some software you might be interested in:
 
 **Business Intelligence**
 
+* https://chat.openai.com/ (Chat GPT, will need Code Interpreter which is a paid feature)
 * https://powerbi.microsoft.com/en-us
 * https://www.tableau.com
 
