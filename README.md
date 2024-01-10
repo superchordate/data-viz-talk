@@ -43,6 +43,8 @@ Here is some software you might be interested in:
 * https://www.reddit.com/r/datasets/
 * https://aws.amazon.com/marketplace/
 * https://github.com/fivethirtyeight/data
+* https://podcasts.apple.com/us/podcast/the-alternative-data-podcast/id1539909575
+* https://www.battlefin.com/events/miami-2024
 * College/university library may have data subscriptions available.
 * Government (national):
     - https://data.gov/
