@@ -34,6 +34,25 @@ Here are the resources from the talk:
 
 Here is some software you might be interested in:
 
+**Data Sources**
+
+* https://www.kaggle.com/datasets - data sets linked to code and analysis.
+* https://paperswithcode.com/datasets
+* https://datasetsearch.research.google.com/
+* https://archive.ics.uci.edu/datasets
+* https://www.reddit.com/r/datasets/
+* https://aws.amazon.com/marketplace/
+* https://github.com/fivethirtyeight/data
+* College/university library may have data subscriptions available.
+* Government (national):
+    - https://data.gov/
+    - https://www.census.gov/data.html
+    - https://www.census.gov/programs-surveys/susb.html counts of businesses and employees by size, location, industry
+* Government (local): cities will often have data portals, too! For example: https://data.cityofchicago.org/
+* Publicly traded companies:
+    - https://www.sec.gov/edgar/search-and-access for lists of companies, SEC financial disclosures
+    - https://www.simfin.com/en/fundamental-data-download/ for clean company datasets
+
 **AutoML**
 
 * https://chat.openai.com/ (Chat GPT, will need Code Interpreter which is a paid feature)
