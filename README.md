@@ -50,10 +50,13 @@ Here is some software you might be interested in:
     - https://data.gov/
     - https://www.census.gov/data.html
     - https://www.census.gov/programs-surveys/susb.html counts of businesses and employees by size, location, industry
+    - https://github.com/superchordate/ASEC-census-helper download over 500 person and household-based survey responses over the last 5 years. 
 * Government (local): cities will often have data portals, too! For example: https://data.cityofchicago.org/
 * Publicly traded companies:
     - https://www.sec.gov/edgar/search-and-access for lists of companies, SEC financial disclosures
     - https://www.simfin.com/en/fundamental-data-download/ for clean company datasets
+* Geographic Data:
+    - Map zip codes to counties and longitude/latitude: https://download.geonames.org/export/dump/ > US.zip
 
 **AutoML**
 
